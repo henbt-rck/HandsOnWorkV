@@ -12,6 +12,11 @@ header {
   padding: 20px;
 }
 
+.responsive{
+	width: 60%;
+	height: auto;
+}
+
 nav ul {
   list-style-type: none;
   margin: 0;
